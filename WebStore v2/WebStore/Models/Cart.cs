@@ -1,91 +1,106 @@
+using System;
+using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+using System.Data.Entity;
+using System.Linq;
+
 namespace WebStore.Models
 {
-    using System;
-    using System.Collections.Generic;
-    using System.ComponentModel.DataAnnotations;
-    using System.ComponentModel.DataAnnotations.Schema;
-    using System.Linq;
-
     [Table("Cart")]
     public partial class Cart
     {
+        private readonly ConnectDB db = new ConnectDB();
         public Cart()
         {
             CartDetails = new HashSet<CartDetail>();
         }
 
-        private List<CartItem> items = new List<CartItem>();
+        [Key]
+        public int CartID { get; set; }
 
-        [NotMapped]
-        public IEnumerable<CartItem> Items
+        [Required]
+        public int CustomerID { get; set; }
+
+        [Required]
+        public DateTime CreatedDate { get; set; }
+
+        [Required]
+        public decimal Total { get; set; }
+
+        public virtual Customer Customer { get; set; }
+
+        public virtual ICollection<CartDetail> CartDetails { get; set; }
+
+        public void RemoveCartItem(int productId)
         {
-            get { return items; }
+            try
+            {
+                var cartItemToRemove = db.CartDetails.FirstOrDefault(ci => ci.ProductID == productId && ci.CartID == this.CartID);
+
+                if (cartItemToRemove != null)
+                {
+                    db.CartDetails.Remove(cartItemToRemove);
+                    db.SaveChanges();
+
+                    // Update total after removing item
+                    UpdateTotal();
+                }
+                else
+                {
+                    throw new InvalidOperationException($"Cart item with ProductID {productId} not found in Cart.");
+                }
+            }
+            catch (Exception ex)
+            {
+                // Log or handle the exception as per your application's error handling strategy
+                throw new Exception("Error removing cart item.", ex);
+            }
         }
+
+
+
+
+
 
         public void Add(Product product, int quantity = 1)
         {
-            CartItem item = items.FirstOrDefault(i => i.shopping_Product.ProductID == product.ProductID);
-            if (item == null)
+            CartDetail detail = CartDetails.FirstOrDefault(i => i.ProductID == product.ProductID);
+            if (detail == null)
             {
-                items.Add(new CartItem
+                CartDetails.Add(new CartDetail
                 {
-                    shopping_Product = product,
-                    shopping_Quantity = quantity
+                    ProductID = product.ProductID,
+                    Product = product,
+                    Quantity = quantity,
+                    CartID = this.CartID
                 });
             }
             else
             {
-                item.shopping_Quantity += quantity;
+                detail.Quantity += quantity;
             }
+            UpdateTotal();
         }
 
         public void UpdateQuantity(int productId, int quantity)
         {
-            CartItem item = items.FirstOrDefault(i => i.shopping_Product.ProductID == productId);
-            if (item != null)
+            CartDetail detail = CartDetails.FirstOrDefault(i => i.ProductID == productId);
+            if (detail != null)
             {
-                item.shopping_Quantity = quantity;
+                detail.Quantity = quantity;
+                UpdateTotal();
             }
         }
 
-        public void Remove(int productId)
+        public decimal TotalMoney()
         {
-            CartItem item = items.FirstOrDefault(i => i.shopping_Product.ProductID == productId);
-            if (item != null)
-            {
-                items.Remove(item);
-            }
+            return CartDetails.Sum(i => i.Product.Price * i.Quantity);
         }
 
-        public decimal Total_Money()
+        private void UpdateTotal()
         {
-            decimal total = items.Sum(i => i.shopping_Product.Price * i.shopping_Quantity);
-            return total;
+            Total = TotalMoney();
         }
-
-        public int CartID { get; set; }
-
-        public int? CustomerID { get; set; }
-
-        public DateTime? CreatedDate { get; set; }
-
-        public decimal? Total { get; set; }
-
-        public virtual Customer Customer { get; set; }
-
-        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
-        public virtual ICollection<CartDetail> CartDetails { get; set; }
-    }
-
-    public class CartItem
-    {
-        [Key]
-        public int CartItemID { get; set; }
-        public bool Hide { get; set; } // Added Hide property
-        public int shopping_ProductID { get; set; }
-
-        public virtual Product shopping_Product { get; set; }
-
-        public int shopping_Quantity { get; set; }
     }
 }

@@ -1,12 +1,6 @@
 ﻿@model WebStore.Models.Cart
 
-
-
-
-
-
-<div class="your-shopping-cart ">
-
+<div class="your-shopping-cart">
     <table class="table">
         <thead>
             <tr>
@@ -18,24 +12,24 @@
             </tr>
         </thead>
         <tbody>
-            @foreach (var item in Model.Items)
+            @foreach (var item in Model.CartDetails)
             {
                 <tr>
-                    <td>@item.shopping_Product.ProductName</td>
-                    <td>$@item.shopping_Product.Price</td>
+                    <td>@item.Product.ProductName</td>
+                    <td>$@item.Product.Price</td>
                     <td>
                         @using (Html.BeginForm("Update_Quantity_Cart", "ShoppingCart", FormMethod.Post))
                         {
-                            @Html.Hidden("ID_Product", item.shopping_Product.ProductID)
-                            <input type="number" name="Quantity" value="@item.shopping_Quantity" min="1" class="form-control" style="width: 70px;" />
+                            @Html.Hidden("ID_Product", item.Product.ProductID)
+                            <input type="number" name="Quantity" value="@item.Quantity" min="1" class="form-control" style="width: 70px;" />
                             <button type="submit" class="btn btn-primary btn-sm">Update</button>
                         }
                     </td>
-                    <td>$@(item.shopping_Product.Price * item.shopping_Quantity)</td>
+                    <td>$@(item.Product.Price * item.Quantity)</td>
                     <td>
                         @using (Html.BeginForm("RemoveCart", "ShoppingCart", FormMethod.Post))
                         {
-                            @Html.Hidden("id", item.shopping_Product.ProductID)
+                            @Html.Hidden("id", item.Product.ProductID)
                             <button type="submit" class="btn btn-danger btn-sm">Remove</button>
                         }
                     </td>
@@ -44,19 +38,13 @@
         </tbody>
         <tfoot>
             <tr>
-                <td colspan="3"><strong>Total:</strong></
+                <td colspan="3"><strong>Total:</strong></td>
                 <td colspan="2">
-                    @{
-                        // Kiểm tra Session["CartTotal"] có tồn tại và có phải kiểu decimal không
-                        var cartTotal = Session["CartTotal"];
-                        if (cartTotal != null && cartTotal is decimal)
-                        {
-                            <text>$@(Convert.ToDecimal(cartTotal))</text>
-                        }
+                    @if (Model.CartDetails.Any())
+                    {
+                        <text>$@Model.Total</text>
                     }
                 </td>
-                <!-- Hiển thị tổng tiền từ Session -->
-
             </tr>
         </tfoot>
     </table>
@@ -65,7 +53,7 @@
             <a href="@Url.Action("Index", "Home")" class="btn btn-primary">Continue Shopping</a>
         </div>
         <div class="col text-right">
-            @if (Model.Items.Any())
+            @if (Model.CartDetails.Any())
             {
                 <a href="@Url.Action("Payment", "ShoppingCart")" class="btn btn-success">Checkout</a>
             }

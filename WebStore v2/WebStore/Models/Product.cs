@@ -69,8 +69,10 @@
         public bool Hide { get; set; } // Added Hide property
         [Display(Name = "Is Best Seller")]
         public bool IsBestSeller { get; set; }
+
         public Product Product { get; set; }
         public List<SelectListItem> Categories { get; set; }
+        // Danh sách các category
 
 
 
