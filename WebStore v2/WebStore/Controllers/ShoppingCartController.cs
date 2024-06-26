@@ -71,7 +71,19 @@ namespace WebStore.Controllers
             var cart = GetCart();
             return View(cart);
         }
+        public ActionResult Update_Quantity_Cart(int ID_Product, int Quantity)
+        {
+            var cart = GetCart();
+            var cartItem = cart.CartDetails.FirstOrDefault(ci => ci.ProductID == ID_Product);
+            if (cartItem != null)
+            {
+                cartItem.Quantity = Quantity;
+                db.SaveChanges();
+                UpdateCartTotal();
+            }
 
+            return RedirectToAction("ShowToCart", "ShoppingCart");
+        }
         public ActionResult RemoveCart(int id)
         {
             var cart = GetCart();
