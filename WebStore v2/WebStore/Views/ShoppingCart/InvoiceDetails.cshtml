@@ -1,0 +1,53 @@
+﻿@model WebStore.Models.Invoice
+
+@{
+    ViewBag.Title = "Invoice Details";
+}
+
+<div class="container mt-4">
+    <div class="row">
+        <div class="col">
+            <dl class="row">
+                <dt class="col-sm-3">Invoice Date</dt>
+                <dd class="col-sm-9">@Model.InvoiceDate</dd>
+
+                <dt class="col-sm-3">Total</dt>
+                <dd class="col-sm-9">$ @Model.Total</dd>
+
+                <dt class="col-sm-3">Status</dt>
+                <dd class="col-sm-9">@Model.Status</dd>
+
+                <dt class="col-sm-3">Ship Address</dt>
+                <dd class="col-sm-9">@Model.ShipAddress</dd>
+
+                <dt class="col-sm-3">Phone</dt>
+                <dd class="col-sm-9">@Model.Phone</dd>
+            </dl>
+        </div>
+    </div>
+
+   
+    <div class="table-responsive">
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Product Name</th>
+                    <th>Quantity</th>
+                    <th>Unit Price</th>
+                    <th>Total Price</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model.InvoiceDetails)
+                {
+                    <tr>
+                        <td>@item.Product.ProductName</td>
+                        <td>@item.Quantity</td>
+                        <td>$ @item.UnitPrice</td>
+                        <td>$ @(item.Quantity * item.UnitPrice)</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

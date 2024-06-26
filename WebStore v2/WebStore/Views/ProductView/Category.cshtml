@@ -1,0 +1,8 @@
+﻿@model List<WebStore.Models.Category>
+
+<ul>
+    @foreach (var cate in Model)
+    {
+        <li><a class="dropdown-item" href="@Url.Action("CategoryProducts", "ProductView", new { id = cate.CategoryID })">@cate.CategoryName</a></li>
+    }
+</ul>

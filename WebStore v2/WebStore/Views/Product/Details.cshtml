@@ -1,0 +1,51 @@
+﻿@model WebStore.Models.Product
+
+<div class="detail-product">
+    <div class="form-horizontal">
+        <div class="form-group">
+            <label class="control-label col-md-2">Product Name</label>
+            <div class="col-md-10">
+                <p class="form-control-static">@Model.ProductName</p>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label class="control-label col-md-2">Description</label>
+            <div class="col-md-10">
+                <p class="form-control-static">@Model.Description</p>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label class="control-label col-md-2">Price</label>
+            <div class="col-md-10">
+                <p class="form-control-static">@Model.Price</p>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label class="control-label col-md-2">Quantity</label>
+            <div class="col-md-10">
+                <p class="form-control-static">@Model.Quantity</p>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label class="control-label col-md-2">Image</label>
+            <div class="col-md-10">
+                @if (!string.IsNullOrEmpty(Model.ImageURL))
+                {
+                    <img src="@Model.ImageURL" alt="@Model.ProductName" class="img-thumbnail" style="max-width: 200px;" />
+                }
+                else
+                {
+                    <p>No Image Available</p>
+                }
+            </div>
+        </div>
+    </div>
+
+    <p>
+        @Html.ActionLink("Back to List", "Index", null, new { @class = "btn btn-primary" })
+    </p>
+</div>

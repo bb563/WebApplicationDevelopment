@@ -1,0 +1,72 @@
+﻿@model WebStore.Models.Category
+
+@{
+    ViewBag.Title = "Category Details";
+}
+
+<div class="container mt-5">
+    <h2>Category Details</h2>
+
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Category Information</h4>
+            <hr />
+            <dl class="row">
+                <dt class="col-sm-3">
+                    @Html.DisplayNameFor(model => model.CategoryName)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.CategoryName)
+                </dd>
+
+                <dt class="col-sm-3">
+                    @Html.DisplayNameFor(model => model.Description)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.Description)
+                </dd>
+            </dl>
+        </div>
+    </div>
+
+    <div class="mt-3">
+        @Html.ActionLink("Edit", "Edit", new { id = Model.CategoryID }, new { @class = "btn btn-primary" }) |
+        @Html.ActionLink("Back to List", "Index", null, new { @class = "btn btn-secondary" })
+    </div>
+
+    <div class="mt-5">
+        <h3>Products in this Category</h3>
+        @if (Model.Products != null && Model.Products.Any())
+        {
+            <table class="table table-bordered table-striped">
+                <thead>
+                    <tr>
+                        <th>@Html.DisplayNameFor(model => model.Products.First().ProductName)</th>
+                        <th>@Html.DisplayNameFor(model => model.Products.First().Price)</th>
+                        <th>@Html.DisplayNameFor(model => model.Products.First().Description)</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var product in Model.Products)
+                    {
+                        <tr>
+                            <td>@Html.DisplayFor(modelItem => product.ProductName)</td>
+                            <td>@Html.DisplayFor(modelItem => product.Price)</td>
+                            <td>@Html.DisplayFor(modelItem => product.Description)</td>
+                            <td>
+                                @Html.ActionLink("View Details", "Detail", "ProductView", new { productId = product.ProductID }, new { @class = "btn btn-info btn-sm" })
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        }
+        else
+        {
+            <div class="alert alert-info" role="alert">
+                No products found in this category.
+            </div>
+        }
+    </div>
+</div>

@@ -1,0 +1,475 @@
+D:\Quyt day dung so\WebStore\WebStore\bin\ApplicationInsights.config
+D:\Quyt day dung so\WebStore\WebStore\bin\WebStore.dll.config
+D:\Quyt day dung so\WebStore\WebStore\bin\WebStore.dll
+D:\Quyt day dung so\WebStore\WebStore\bin\WebStore.pdb
+D:\Quyt day dung so\WebStore\WebStore\bin\roslyn\csc.exe
+D:\Quyt day dung so\WebStore\WebStore\bin\roslyn\csc.exe.config
+D:\Quyt day dung so\WebStore\WebStore\bin\roslyn\csc.rsp
+D:\Quyt day dung so\WebStore\WebStore\bin\roslyn\csi.exe
+D:\Quyt day dung so\WebStore\WebStore\bin\roslyn\csi.exe.config
+D:\Quyt day dung so\WebStore\WebStore\bin\roslyn\csi.rsp
+D:\Quyt day dung so\WebStore\WebStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Quyt day dung so\WebStore\WebStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Quyt day dung so\WebStore\WebStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Quyt day dung so\WebStore\WebStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Quyt day dung so\WebStore\WebStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Quyt day dung so\WebStore\WebStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Quyt day dung so\WebStore\WebStore\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Quyt day dung so\WebStore\WebStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Quyt day dung so\WebStore\WebStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Quyt day dung so\WebStore\WebStore\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Quyt day dung so\WebStore\WebStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Quyt day dung so\WebStore\WebStore\bin\roslyn\System.AppContext.dll
+D:\Quyt day dung so\WebStore\WebStore\bin\roslyn\System.Collections.Immutable.dll
+D:\Quyt day dung so\WebStore\WebStore\bin\roslyn\System.Console.dll
+D:\Quyt day dung so\WebStore\WebStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Quyt day dung so\WebStore\WebStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Quyt day dung so\WebStore\WebStore\bin\roslyn\System.IO.Compression.dll
+D:\Quyt day dung so\WebStore\WebStore\bin\roslyn\System.IO.FileSystem.dll
+D:\Quyt day dung so\WebStore\WebStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Quyt day dung so\WebStore\WebStore\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Quyt day dung so\WebStore\WebStore\bin\roslyn\System.IO.Pipes.dll
+D:\Quyt day dung so\WebStore\WebStore\bin\roslyn\System.Reflection.Metadata.dll
+D:\Quyt day dung so\WebStore\WebStore\bin\roslyn\System.Security.AccessControl.dll
+D:\Quyt day dung so\WebStore\WebStore\bin\roslyn\System.Security.Claims.dll
+D:\Quyt day dung so\WebStore\WebStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Quyt day dung so\WebStore\WebStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Quyt day dung so\WebStore\WebStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Quyt day dung so\WebStore\WebStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Quyt day dung so\WebStore\WebStore\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Quyt day dung so\WebStore\WebStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Quyt day dung so\WebStore\WebStore\bin\roslyn\System.ValueTuple.dll
+D:\Quyt day dung so\WebStore\WebStore\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Quyt day dung so\WebStore\WebStore\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Quyt day dung so\WebStore\WebStore\bin\roslyn\System.Xml.XPath.dll
+D:\Quyt day dung so\WebStore\WebStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Quyt day dung so\WebStore\WebStore\bin\roslyn\vbc.exe
+D:\Quyt day dung so\WebStore\WebStore\bin\roslyn\vbc.exe.config
+D:\Quyt day dung so\WebStore\WebStore\bin\roslyn\vbc.rsp
+D:\Quyt day dung so\WebStore\WebStore\bin\roslyn\VBCSCompiler.exe
+D:\Quyt day dung so\WebStore\WebStore\bin\roslyn\VBCSCompiler.exe.config
+D:\Quyt day dung so\WebStore\WebStore\bin\Antlr3.Runtime.dll
+D:\Quyt day dung so\WebStore\WebStore\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Quyt day dung so\WebStore\WebStore\bin\Microsoft.AI.DependencyCollector.dll
+D:\Quyt day dung so\WebStore\WebStore\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Quyt day dung so\WebStore\WebStore\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Quyt day dung so\WebStore\WebStore\bin\Microsoft.AI.Web.dll
+D:\Quyt day dung so\WebStore\WebStore\bin\Microsoft.AI.WindowsServer.dll
+D:\Quyt day dung so\WebStore\WebStore\bin\Microsoft.ApplicationInsights.dll
+D:\Quyt day dung so\WebStore\WebStore\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Quyt day dung so\WebStore\WebStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Quyt day dung so\WebStore\WebStore\bin\Microsoft.Web.Infrastructure.dll
+D:\Quyt day dung so\WebStore\WebStore\bin\Newtonsoft.Json.dll
+D:\Quyt day dung so\WebStore\WebStore\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Quyt day dung so\WebStore\WebStore\bin\System.Web.Helpers.dll
+D:\Quyt day dung so\WebStore\WebStore\bin\System.Web.Mvc.dll
+D:\Quyt day dung so\WebStore\WebStore\bin\System.Web.Optimization.dll
+D:\Quyt day dung so\WebStore\WebStore\bin\System.Web.Razor.dll
+D:\Quyt day dung so\WebStore\WebStore\bin\System.Web.WebPages.Deployment.dll
+D:\Quyt day dung so\WebStore\WebStore\bin\System.Web.WebPages.dll
+D:\Quyt day dung so\WebStore\WebStore\bin\System.Web.WebPages.Razor.dll
+D:\Quyt day dung so\WebStore\WebStore\bin\WebGrease.dll
+D:\Quyt day dung so\WebStore\WebStore\bin\System.Web.Helpers.xml
+D:\Quyt day dung so\WebStore\WebStore\bin\System.Web.Mvc.xml
+D:\Quyt day dung so\WebStore\WebStore\bin\System.Web.Optimization.xml
+D:\Quyt day dung so\WebStore\WebStore\bin\System.Web.Razor.xml
+D:\Quyt day dung so\WebStore\WebStore\bin\System.Web.WebPages.xml
+D:\Quyt day dung so\WebStore\WebStore\bin\System.Web.WebPages.Deployment.xml
+D:\Quyt day dung so\WebStore\WebStore\bin\System.Web.WebPages.Razor.xml
+D:\Quyt day dung so\WebStore\WebStore\bin\Newtonsoft.Json.xml
+D:\Quyt day dung so\WebStore\WebStore\bin\Antlr3.Runtime.pdb
+D:\Quyt day dung so\WebStore\WebStore\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Quyt day dung so\WebStore\WebStore\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Quyt day dung so\WebStore\WebStore\bin\Microsoft.AI.DependencyCollector.xml
+D:\Quyt day dung so\WebStore\WebStore\bin\Microsoft.AI.WindowsServer.xml
+D:\Quyt day dung so\WebStore\WebStore\bin\Microsoft.AI.Web.xml
+D:\Quyt day dung so\WebStore\WebStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Quyt day dung so\WebStore\WebStore\obj\Debug\WebStore.csprojAssemblyReference.cache
+D:\Quyt day dung so\WebStore\WebStore\obj\Debug\WebStore.csproj.CoreCompileInputs.cache
+D:\Quyt day dung so\WebStore\WebStore\obj\Debug\WebStore.csproj.CopyComplete
+D:\Quyt day dung so\WebStore\WebStore\obj\Debug\WebStore.dll
+D:\Quyt day dung so\WebStore\WebStore\obj\Debug\WebStore.pdb
+D:\Quyt day dung so\WebStore\WebStore\bin\EntityFramework.dll
+D:\Quyt day dung so\WebStore\WebStore\bin\EntityFramework.SqlServer.dll
+D:\Quyt day dung so\WebStore\WebStore\bin\EntityFramework.xml
+D:\Quyt day dung so\WebStore\WebStore\bin\EntityFramework.SqlServer.xml
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\ApplicationInsights.config
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\WebStore.dll.config
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\WebStore.dll
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\WebStore.pdb
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\roslyn\csc.exe
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\roslyn\csc.exe.config
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\roslyn\csc.rsp
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\roslyn\csi.exe
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\roslyn\csi.exe.config
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\roslyn\csi.rsp
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\roslyn\System.AppContext.dll
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\roslyn\System.Collections.Immutable.dll
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\roslyn\System.Console.dll
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\roslyn\System.IO.Compression.dll
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\roslyn\System.IO.FileSystem.dll
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\roslyn\System.IO.Pipes.dll
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\roslyn\System.Reflection.Metadata.dll
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\roslyn\System.Security.AccessControl.dll
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\roslyn\System.Security.Claims.dll
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\roslyn\System.ValueTuple.dll
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\roslyn\System.Xml.XPath.dll
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\roslyn\vbc.exe
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\roslyn\vbc.exe.config
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\roslyn\vbc.rsp
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\roslyn\VBCSCompiler.exe
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\roslyn\VBCSCompiler.exe.config
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\Antlr3.Runtime.dll
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\EntityFramework.dll
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\EntityFramework.SqlServer.dll
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\Microsoft.AI.DependencyCollector.dll
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\Microsoft.AI.Web.dll
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\Microsoft.AI.WindowsServer.dll
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\Microsoft.ApplicationInsights.dll
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\Microsoft.Web.Infrastructure.dll
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\Newtonsoft.Json.dll
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\System.Web.Helpers.dll
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\System.Web.Mvc.dll
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\System.Web.Optimization.dll
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\System.Web.Razor.dll
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\System.Web.WebPages.Deployment.dll
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\System.Web.WebPages.dll
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\System.Web.WebPages.Razor.dll
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\WebGrease.dll
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\EntityFramework.xml
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\EntityFramework.SqlServer.xml
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\System.Web.Helpers.xml
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\System.Web.Mvc.xml
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\System.Web.Optimization.xml
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\System.Web.Razor.xml
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\System.Web.WebPages.xml
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\System.Web.WebPages.Deployment.xml
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\System.Web.WebPages.Razor.xml
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\Newtonsoft.Json.xml
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\Antlr3.Runtime.pdb
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\Microsoft.AI.DependencyCollector.xml
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\Microsoft.AI.WindowsServer.xml
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\Microsoft.AI.Web.xml
+D:\Quyt day dung so\WebStore\WebStore\WebStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Quyt day dung so\WebStore\WebStore\WebStore\obj\Debug\WebStore.csprojAssemblyReference.cache
+D:\Quyt day dung so\WebStore\WebStore\WebStore\obj\Debug\WebStore.csproj.CoreCompileInputs.cache
+D:\Quyt day dung so\WebStore\WebStore\WebStore\obj\Debug\WebStore.csproj.CopyComplete
+D:\Quyt day dung so\WebStore\WebStore\WebStore\obj\Debug\WebStore.dll
+D:\Quyt day dung so\WebStore\WebStore\WebStore\obj\Debug\WebStore.pdb
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\ApplicationInsights.config
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\WebStore.dll.config
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\WebStore.dll
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\WebStore.pdb
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\Antlr3.Runtime.dll
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\EntityFramework.dll
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\EntityFramework.SqlServer.dll
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\Microsoft.AI.Agent.Intercept.dll
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\Microsoft.AI.DependencyCollector.dll
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\Microsoft.AI.Web.dll
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\Microsoft.AI.WindowsServer.dll
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\Microsoft.ApplicationInsights.dll
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\Microsoft.Web.Infrastructure.dll
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\Newtonsoft.Json.dll
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\System.Diagnostics.DiagnosticSource.dll
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\System.Web.Helpers.dll
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\System.Web.Mvc.dll
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\System.Web.Optimization.dll
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\System.Web.Razor.dll
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\System.Web.WebPages.Deployment.dll
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\System.Web.WebPages.dll
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\System.Web.WebPages.Razor.dll
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\WebGrease.dll
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\EntityFramework.xml
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\EntityFramework.SqlServer.xml
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\Microsoft.AI.DependencyCollector.xml
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\Microsoft.AI.Web.xml
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\Microsoft.AI.WindowsServer.xml
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\Newtonsoft.Json.xml
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\System.Diagnostics.DiagnosticSource.xml
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\System.Web.Helpers.xml
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\System.Web.Mvc.xml
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\System.Web.Razor.xml
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\System.Web.WebPages.xml
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\System.Web.WebPages.Deployment.xml
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\System.Web.WebPages.Razor.xml
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\System.Web.Optimization.xml
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\Antlr3.Runtime.pdb
+D:\web\WebStore2\WebStore\WebStore\WebStore\obj\Debug\WebStore.csprojAssemblyReference.cache
+D:\web\WebStore2\WebStore\WebStore\WebStore\obj\Debug\WebStore.csproj.CoreCompileInputs.cache
+D:\web\WebStore2\WebStore\WebStore\WebStore\obj\Debug\WebStore.csproj.CopyComplete
+D:\web\WebStore2\WebStore\WebStore\WebStore\obj\Debug\WebStore.dll
+D:\web\WebStore2\WebStore\WebStore\WebStore\obj\Debug\WebStore.pdb
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\roslyn\csc.exe
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\roslyn\csc.exe.config
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\roslyn\csc.rsp
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\roslyn\csi.exe
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\roslyn\csi.exe.config
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\roslyn\csi.rsp
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\roslyn\Microsoft.Managed.Core.targets
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\roslyn\System.AppContext.dll
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\roslyn\System.Collections.Immutable.dll
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\roslyn\System.Console.dll
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\roslyn\System.IO.Compression.dll
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\roslyn\System.IO.FileSystem.dll
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\roslyn\System.IO.Pipes.dll
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\roslyn\System.Reflection.Metadata.dll
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\roslyn\System.Security.AccessControl.dll
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\roslyn\System.Security.Claims.dll
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\roslyn\System.Security.Principal.Windows.dll
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\roslyn\System.ValueTuple.dll
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\roslyn\System.Xml.XmlDocument.dll
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\roslyn\System.Xml.XPath.dll
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\roslyn\vbc.exe
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\roslyn\vbc.exe.config
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\roslyn\vbc.rsp
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\roslyn\VBCSCompiler.exe
+D:\web\WebStore2\WebStore\WebStore\WebStore\bin\roslyn\VBCSCompiler.exe.config
+D:\Final Web\WebStore\WebStore\bin\ApplicationInsights.config
+D:\Final Web\WebStore\WebStore\bin\WebStore.dll.config
+D:\Final Web\WebStore\WebStore\bin\WebStore.dll
+D:\Final Web\WebStore\WebStore\bin\WebStore.pdb
+D:\Final Web\WebStore\WebStore\bin\roslyn\csc.exe
+D:\Final Web\WebStore\WebStore\bin\roslyn\csc.exe.config
+D:\Final Web\WebStore\WebStore\bin\roslyn\csc.rsp
+D:\Final Web\WebStore\WebStore\bin\roslyn\csi.exe
+D:\Final Web\WebStore\WebStore\bin\roslyn\csi.exe.config
+D:\Final Web\WebStore\WebStore\bin\roslyn\csi.rsp
+D:\Final Web\WebStore\WebStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Final Web\WebStore\WebStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Final Web\WebStore\WebStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Final Web\WebStore\WebStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Final Web\WebStore\WebStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Final Web\WebStore\WebStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Final Web\WebStore\WebStore\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Final Web\WebStore\WebStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Final Web\WebStore\WebStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Final Web\WebStore\WebStore\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Final Web\WebStore\WebStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Final Web\WebStore\WebStore\bin\roslyn\System.AppContext.dll
+D:\Final Web\WebStore\WebStore\bin\roslyn\System.Collections.Immutable.dll
+D:\Final Web\WebStore\WebStore\bin\roslyn\System.Console.dll
+D:\Final Web\WebStore\WebStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Final Web\WebStore\WebStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Final Web\WebStore\WebStore\bin\roslyn\System.IO.Compression.dll
+D:\Final Web\WebStore\WebStore\bin\roslyn\System.IO.FileSystem.dll
+D:\Final Web\WebStore\WebStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Final Web\WebStore\WebStore\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Final Web\WebStore\WebStore\bin\roslyn\System.IO.Pipes.dll
+D:\Final Web\WebStore\WebStore\bin\roslyn\System.Reflection.Metadata.dll
+D:\Final Web\WebStore\WebStore\bin\roslyn\System.Security.AccessControl.dll
+D:\Final Web\WebStore\WebStore\bin\roslyn\System.Security.Claims.dll
+D:\Final Web\WebStore\WebStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Final Web\WebStore\WebStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Final Web\WebStore\WebStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Final Web\WebStore\WebStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Final Web\WebStore\WebStore\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Final Web\WebStore\WebStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Final Web\WebStore\WebStore\bin\roslyn\System.ValueTuple.dll
+D:\Final Web\WebStore\WebStore\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Final Web\WebStore\WebStore\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Final Web\WebStore\WebStore\bin\roslyn\System.Xml.XPath.dll
+D:\Final Web\WebStore\WebStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Final Web\WebStore\WebStore\bin\roslyn\vbc.exe
+D:\Final Web\WebStore\WebStore\bin\roslyn\vbc.exe.config
+D:\Final Web\WebStore\WebStore\bin\roslyn\vbc.rsp
+D:\Final Web\WebStore\WebStore\bin\roslyn\VBCSCompiler.exe
+D:\Final Web\WebStore\WebStore\bin\roslyn\VBCSCompiler.exe.config
+D:\Final Web\WebStore\WebStore\bin\Antlr3.Runtime.dll
+D:\Final Web\WebStore\WebStore\bin\EntityFramework.dll
+D:\Final Web\WebStore\WebStore\bin\EntityFramework.SqlServer.dll
+D:\Final Web\WebStore\WebStore\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Final Web\WebStore\WebStore\bin\Microsoft.AI.DependencyCollector.dll
+D:\Final Web\WebStore\WebStore\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Final Web\WebStore\WebStore\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Final Web\WebStore\WebStore\bin\Microsoft.AI.Web.dll
+D:\Final Web\WebStore\WebStore\bin\Microsoft.AI.WindowsServer.dll
+D:\Final Web\WebStore\WebStore\bin\Microsoft.ApplicationInsights.dll
+D:\Final Web\WebStore\WebStore\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Final Web\WebStore\WebStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Final Web\WebStore\WebStore\bin\Microsoft.Web.Infrastructure.dll
+D:\Final Web\WebStore\WebStore\bin\Newtonsoft.Json.dll
+D:\Final Web\WebStore\WebStore\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Final Web\WebStore\WebStore\bin\System.Web.Helpers.dll
+D:\Final Web\WebStore\WebStore\bin\System.Web.Mvc.dll
+D:\Final Web\WebStore\WebStore\bin\System.Web.Optimization.dll
+D:\Final Web\WebStore\WebStore\bin\System.Web.Razor.dll
+D:\Final Web\WebStore\WebStore\bin\System.Web.WebPages.Deployment.dll
+D:\Final Web\WebStore\WebStore\bin\System.Web.WebPages.dll
+D:\Final Web\WebStore\WebStore\bin\System.Web.WebPages.Razor.dll
+D:\Final Web\WebStore\WebStore\bin\WebGrease.dll
+D:\Final Web\WebStore\WebStore\bin\EntityFramework.xml
+D:\Final Web\WebStore\WebStore\bin\EntityFramework.SqlServer.xml
+D:\Final Web\WebStore\WebStore\bin\Microsoft.AI.DependencyCollector.xml
+D:\Final Web\WebStore\WebStore\bin\Microsoft.AI.Web.xml
+D:\Final Web\WebStore\WebStore\bin\Microsoft.AI.WindowsServer.xml
+D:\Final Web\WebStore\WebStore\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Final Web\WebStore\WebStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Final Web\WebStore\WebStore\bin\Newtonsoft.Json.xml
+D:\Final Web\WebStore\WebStore\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Final Web\WebStore\WebStore\bin\System.Web.Helpers.xml
+D:\Final Web\WebStore\WebStore\bin\System.Web.Mvc.xml
+D:\Final Web\WebStore\WebStore\bin\System.Web.Razor.xml
+D:\Final Web\WebStore\WebStore\bin\System.Web.WebPages.xml
+D:\Final Web\WebStore\WebStore\bin\System.Web.WebPages.Deployment.xml
+D:\Final Web\WebStore\WebStore\bin\System.Web.WebPages.Razor.xml
+D:\Final Web\WebStore\WebStore\bin\System.Web.Optimization.xml
+D:\Final Web\WebStore\WebStore\bin\Antlr3.Runtime.pdb
+D:\Final Web\WebStore\WebStore\obj\Debug\WebStore.csprojAssemblyReference.cache
+D:\Final Web\WebStore\WebStore\obj\Debug\WebStore.csproj.CoreCompileInputs.cache
+D:\Final Web\WebStore\WebStore\obj\Debug\WebStore.csproj.CopyComplete
+D:\Final Web\WebStore\WebStore\obj\Debug\WebStore.dll
+D:\Final Web\WebStore\WebStore\obj\Debug\WebStore.pdb
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\ApplicationInsights.config
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\WebStore.dll.config
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\WebStore.dll
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\WebStore.pdb
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\roslyn\csc.exe
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\roslyn\csc.exe.config
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\roslyn\csc.rsp
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\roslyn\csi.exe
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\roslyn\csi.exe.config
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\roslyn\csi.rsp
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\roslyn\System.AppContext.dll
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\roslyn\System.Console.dll
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\roslyn\System.IO.Compression.dll
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\roslyn\System.IO.Pipes.dll
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\roslyn\System.Security.Claims.dll
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\roslyn\System.ValueTuple.dll
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\roslyn\System.Xml.XPath.dll
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\roslyn\vbc.exe
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\roslyn\vbc.exe.config
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\roslyn\vbc.rsp
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\Antlr3.Runtime.dll
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\EntityFramework.dll
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\EntityFramework.SqlServer.dll
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\Microsoft.AI.Web.dll
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\Microsoft.ApplicationInsights.dll
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\Newtonsoft.Json.dll
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\System.Web.Helpers.dll
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\System.Web.Mvc.dll
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\System.Web.Optimization.dll
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\System.Web.Razor.dll
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\System.Web.WebPages.dll
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\WebGrease.dll
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\EntityFramework.xml
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\EntityFramework.SqlServer.xml
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\Microsoft.AI.Web.xml
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\Newtonsoft.Json.xml
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\System.Web.Helpers.xml
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\System.Web.Mvc.xml
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\System.Web.Razor.xml
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\System.Web.WebPages.xml
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\System.Web.Optimization.xml
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\bin\Antlr3.Runtime.pdb
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\obj\Debug\WebStore.csproj.AssemblyReference.cache
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\obj\Debug\WebStore.csproj.CoreCompileInputs.cache
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\obj\Debug\WebStore.csproj.CopyComplete
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\obj\Debug\WebStore.dll
+C:\Users\huynh\OneDrive - Microsoft 365 Business\Desktop\Final Web\Final Web\WebStore v2\WebStore\obj\Debug\WebStore.pdb

@@ -1,0 +1,31 @@
+﻿@model WebStore.Models.Invoice
+<div class="invoice-confimation">
+    <div>
+        <dl class="row">
+            <dt class="col-sm-4">Invoice ID:</dt>
+            <dd class="col-sm-8">@Model.InvoiceID</dd>
+
+            <dt class="col-sm-4">Invoice Date:</dt>
+            <dd class="col-sm-8">@Model.InvoiceDate</dd>
+
+            <dt class="col-sm-4">Total:</dt>
+            <dd class="col-sm-8">$@Model.Total</dd>
+
+            <dt class="col-sm-4">Status:</dt>
+            <dd class="col-sm-8">@Model.Status</dd>
+
+            <dt class="col-sm-4">Ship Address:</dt>
+            <dd class="col-sm-8">@Model.ShipAddress</dd>
+
+            <dt class="col-sm-4">Phone:</dt>
+            <dd class="col-sm-8">@Model.Phone</dd>
+        </dl>
+
+
+        @using (Html.BeginForm("SaveInvoice", "ShoppingCart", FormMethod.Post))
+        {
+            @Html.HiddenFor(model => model.InvoiceID)
+            <button type="submit" class="btn btn-primary">Save Invoice</button>
+        }
+    </div>
+</div>

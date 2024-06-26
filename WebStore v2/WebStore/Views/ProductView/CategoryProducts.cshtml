@@ -1,0 +1,69 @@
+﻿@model List<WebStore.Models.Product>
+@using WebStore.Helpers
+
+<div class="fashion_section">
+    <div id="main_slider" class="carousel slide" data-ride="carousel">
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <div class="container">
+                    <h1 class="fashion_taital">@ViewBag.CategoryName</h1>
+                    <div class="fashion_section_2">
+                        <div class="row">
+                            @foreach (var product in Model)
+                            {
+                                <div class="col-lg-4 col-sm-4">
+                                    <div class="box_main">
+                                        <div class="tshirt_img"><img src="@product.ImageURL" alt="@product.ProductName" class="img-fluid"></div>
+
+                                        <h4 class="shirt_text">@product.ProductName</h4>
+
+                                        <p class="price_text">Price <span style="color: #262626;">$ @product.Price</span></p>
+
+                                        <p>@product.Description</p>
+
+                                        <div class="badges">
+                                            @if (product.IsBestSeller)
+                                            {
+                                                <span class="badge badge-success">Best Seller</span>
+                                            }
+                                            @if (product.IsHot)
+                                            {
+                                                <span class="badge badge-danger">Hot</span>
+                                            }
+                                        </div>
+
+                                        <div class="btn_main">
+                                            <div class="buy_bt">
+                                                @if (UserHelper.IsUserLoggedIn())
+                                                {
+                                                    <a href="@Url.Action("AddtoCart", "ShoppingCart", new { id = product.ProductID })" class="combined_button">
+                                                        <i class="fas fa-shopping-cart"></i> Buy Now
+                                                    </a>
+                                                }
+                                                else
+                                                {
+                                                    <a href="@Url.Action("Login", "Account", new { ReturnUrl = Url.Action("AddtoCart", "ShoppingCart", new { id = product.ProductID }) })" class="combined_button">
+                                                        <i class="fas fa-shopping-cart"></i> Buy Now
+                                                    </a>
+                                                }
+                                            </div>
+                                            <div class="seemore_bt">
+                                                <a href="@Url.Action("Detail", "ProductView", new { productId = product.ProductID })">View Details</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            }
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <a class="carousel-control-prev" href="#main_slider" role="button" data-slide="prev">
+            <i class="fa fa-angle-left"></i>
+        </a>
+        <a class="carousel-control-next" href="#main_slider" role="button" data-slide="next">
+            <i class="fa fa-angle-right"></i>
+        </a>
+    </div>
+</div>

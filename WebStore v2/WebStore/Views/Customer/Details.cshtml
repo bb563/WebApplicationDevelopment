@@ -1,0 +1,58 @@
+﻿@model WebStore.Models.Customer
+
+@{
+    ViewBag.Title = "Customer Details";
+}
+<div class="detail-customer">
+    <div>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>Customer ID</dt>
+            <dd>@Model.CustomerID</dd>
+
+            <dt>Name</dt>
+            <dd>@Html.DisplayFor(model => model.FirstName) @Html.DisplayFor(model => model.LastName)</dd>
+
+            <dt>Email</dt>
+            <dd>@Model.Email</dd>
+
+            <dt>Phone</dt>
+            <dd>@Model.Phone</dd>
+
+            <dt>Address</dt>
+            <dd>@Model.Address</dd>
+        </dl>
+    </div>
+
+    <div>
+        <hr />
+        <table class="table">
+            <tr>
+                <th>Invoice ID</th>
+                <th>Invoice Date</th>
+                <th>Ship Address</th>
+                <th>Status</th>
+                <th>Total</th>
+                <th>Actions</th>
+            </tr>
+
+            @foreach (var invoice in Model.Invoices)
+            {
+                <tr>
+                    <td>@invoice.InvoiceID</td>
+                    <td>@invoice.InvoiceDate</td>
+                    <td>@invoice.ShipAddress</td>
+                    <td>@invoice.Status</td>
+                    <td>@invoice.Total</td>
+                    <td>
+                        @Html.ActionLink("Details", "Details", "Order", new { id = invoice.InvoiceID }, new { @class = "btn btn-info btn-sm" })
+                    </td>
+                </tr>
+            }
+        </table>
+    </div>
+
+    <p>
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+</div>

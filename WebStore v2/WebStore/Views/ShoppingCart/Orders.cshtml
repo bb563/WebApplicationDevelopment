@@ -1,0 +1,51 @@
+﻿@model List<WebStore.Models.Invoice>
+
+@{
+    ViewBag.Title = "My Orders";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col">
+            @if (Model.Any())
+            {
+                <div class="table-responsive">
+                    <table class="table table-striped">
+                        <thead>
+                            <tr>
+                                <th>Invoice Date</th>
+                                <th>Total</th>
+                                <th>Status</th>
+                                <th>Action</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var order in Model)
+                            {
+                                <tr>
+                                    <td>@order.InvoiceDate</td>
+                                    <td>@order.Total</td>
+                                    <td>@order.Status</td>
+                                    <td>
+                                        @if (order.Status == "Pending")
+                                        {
+                                            <a href="@Url.Action("InvoiceConfirmation", new { invoiceId = order.InvoiceID })" class="btn btn-primary btn-sm">View Invoice</a>
+                                        }
+                                        else if (order.Status == "Completed")
+                                        {
+                                            <a href="@Url.Action("InvoiceDetails", new { invoiceId = order.InvoiceID })" class="btn btn-info btn-sm">View Details</a>
+                                        }
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            }
+            else
+            {
+                <p class="text-center">No orders found.</p>
+            }
+        </div>
+    </div>
+</div>
